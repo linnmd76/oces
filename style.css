@@ -1,0 +1,4 @@
+body { background: #f7f9fc; }
+.table td, .table th { vertical-align: middle; }
+.form-control, .form-select { max-width: 420px; }
+.min-w-280 { min-width: 280px; }
